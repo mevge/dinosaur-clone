@@ -1,3 +1,2 @@
 #git language csharp 
 *.cs linguist-detectable=true
-*.* linguist-detectable=false
