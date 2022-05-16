@@ -1,2 +1,2 @@
 #git language csharp 
-*.cs linguist-detectable=true
+*.cs linguist-language=C#
